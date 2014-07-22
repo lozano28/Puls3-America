@@ -6,7 +6,7 @@ SISTEMA DE CONTROL DE VERSIONES
 
 Archivos
 FTP ---> Hosting /public_html/
-www.fuckencion.com
+www.fuckencio.com
 
 ======
 
